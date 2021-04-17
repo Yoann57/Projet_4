@@ -73,6 +73,11 @@ a:hover {
 .d-bloc,
 .fa {
     color: rgba(255, 255, 255, .7);
+    
+}
+.fa p{
+    font-size: 10px;
+    padding-top:5px;
 }
 .bg-repeat {
     background: repeat;
@@ -202,6 +207,7 @@ a:hover {
 .site-navigation ul li{
     margin-right: 10px;
 }
+
 
 @media (min-width: 768px) {
     .site-navigation {
