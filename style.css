@@ -51,6 +51,9 @@ a:hover {
     font-size: 14px;
     font-style: normal;
 }
+.col-sm-4 {
+    padding-top: 20px;
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -88,9 +91,10 @@ a:hover {
     color: rgba(8, 3, 3, 0.781);
     
 }
-.fa p{
+.fa{
     font-size: 10px;
     padding-top:5px;
+    
 }
 .bg-repeat {
     background: repeat;
@@ -565,7 +569,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    
     margin: auto auto auto auto;
 }
 
@@ -701,6 +705,12 @@ h4 {
     .bloc-tile-4.full-width-bloc .container {
         padding-left: 0;
         padding-right: 0;
+    }
+    p{
+        font-size: 12pX;
+    }
+    a{
+        padding-bottom: 32px;
     }
 }
 
