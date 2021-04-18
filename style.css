@@ -37,7 +37,20 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-
+.citation1 p{
+    text-align: center;
+    font-size: 22px;
+    
+}
+.citation2 p{
+    text-align: center;
+    font-size:20px;
+    font-style: italic;
+}
+.citatext p{
+    font-size: 14px;
+    font-style: normal;
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -72,7 +85,7 @@ a:hover {
 }
 .d-bloc,
 .fa {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(8, 3, 3, 0.781);
     
 }
 .fa p{
@@ -499,7 +512,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #050505!important;
 }
 h4{
    font-style:italic; 
@@ -529,6 +542,7 @@ h4{
 
 p {
     font-size: 11px;
+    filter:contrast(1);
 }
 
 .tight-width-whitespace {
