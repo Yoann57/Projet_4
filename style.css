@@ -520,7 +520,9 @@ a {
 h1,h4{
     color:#F3976C;
 }
-
+h4{
+    font-size: 21px;
+}
 .container {
     max-width: 1000px;
 }
